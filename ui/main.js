@@ -8,4 +8,4 @@ var img = document.getElementById("drogo");
 img.onclick = function()
 {
     img.style.marginleft = "100px";
-}
+};
