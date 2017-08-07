@@ -7,5 +7,5 @@ element.innerHTML = "New-value";
 var img = document.getElementById("drogo");
 img.onclick = function()
 {
-    img.style.marginleft = "1000px";
+    img.style.marginleft = "100px";
 }
